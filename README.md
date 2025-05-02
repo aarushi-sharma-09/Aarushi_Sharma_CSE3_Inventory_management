@@ -11,7 +11,7 @@ This project proposes an integrated Food Ordering and Inventory Management Syste
 This project is an integrated web-based Food Ordering and Inventory Management System, developed to streamline canteen and hospitality operations within campus environments. The system offers real-time inventory tracking, automated food ordering, and predictive analytics using machine learning models such as SARIMA and Gradient Boosting. By addressing common inefficiencies like food wastage, stock shortages, and manual errors, the solution enhances cost-efficiency, sustainability, and service speed.
 
 ## 📺 Video Explanation
-📹 [https://drive.google.com/file/d/1DRLEMakZuq0-oN5-7TBth21tS3SQhI3e/view](#)
+📹 [https://drive.google.com/file/d/1DRLEMakZuq0-oN5-7TBth21tS3SQhI3e/view](https://drive.google.com/file/d/1DRLEMakZuq0-oN5-7TBth21tS3SQhI3e/view)
 
 ---
 
