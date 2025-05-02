@@ -12,6 +12,7 @@ This project is an integrated web-based Food Ordering and Inventory Management S
 
 ## 📺 Video Explanation
 📹 [https://drive.google.com/file/d/1DRLEMakZuq0-oN5-7TBth21tS3SQhI3e/view](#)  
+[https://drive.google.com/file/d/1DRLEMakZuq0-oN5-7TBth21tS3SQhI3e/view?usp=sharing](#)
 
 ---
 
